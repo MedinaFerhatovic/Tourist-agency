@@ -1,0 +1,30 @@
+ID sobe: 13
+Cijena smjestaja: 40
+Broj kreveta u smjestaju: 3
+Broj soba u smjestaju: 2
+Stanje: Slobodno
+ID sobe: 12
+Cijena smjestaja: 50
+Broj kreveta u smjestaju: 4
+Broj soba u smjestaju: 2
+Stanje: Rezervisano
+ID sobe: 15
+Cijena smjestaja: 30
+Broj kreveta u smjestaju: 2
+Broj soba u smjestaju: 1
+Stanje: Slobodno
+ID sobe: 1
+Cijena smjestaja: 20
+Broj kreveta u smjestaju: 1
+Broj soba u smjestaju: 1
+Stanje: Slobodno
+ID sobe: 3
+Cijena smjestaja: 50
+Broj kreveta u smjestaju: 2
+Broj soba u smjestaju: 1
+Stanje: Rezervisano
+ID sobe: 12
+Cijena smjestaja: 40
+Broj kreveta u smjestaju: 2
+Broj soba u smjestaju: 1
+Stanje: Slobodno

@@ -1,0 +1,14 @@
+Uspjesna rezervacija za smjestaj pod ID brojem 1.
+----------------------------------------------------
+Informacije o smjestaju
+----------------------------------------------------
+
+Broj kreveta: 1
+Broj soba: 1
+Cijena za jednu noc: 20 KM
+
+----------------------------------------------------
+
+
+
+[Isprintani tekst ove datoteke predajete prilikom dolaska u hotel!]

@@ -1,0 +1,6 @@
+13 40 3 2 Slobodno
+12 50 4 2 Rezervisano
+15 30 2 1 Slobodno
+1 20 1 1 Slobodno
+3 50 2 1 Rezervisano
+12 40 2 1 Slobodno
